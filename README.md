@@ -1,6 +1,7 @@
 # Bank-Management-System
 
 Project Overview
+
 The Bank Management System is a Java-based desktop application developed using IntelliJ IDEA. This system provides an efficient platform for managing customer accounts, transactions, and banking operations. It demonstrates fundamental concepts of object-oriented programming, database integration, and GUI design.
 
 Features
